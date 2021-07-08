@@ -1,2 +1,2 @@
 # JavaSE-Functional-platzi
-Codigo de ejemplos para el curso sobre programacion funcional de Platzi
+Sample code for the Platzi functional programming course
